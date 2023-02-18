@@ -13,11 +13,12 @@ To get started with this app, you will need to have Flutter installed on your ma
 
 
 # to clone
+```shell
 $ git clone https://github.com/abdxlahs/calculator.git
 $ cd calculator-app
 $ flutter run
 Contact
 If you have any questions or feedback about this app, you can contact me at au060134@gmail.com
-
+```
 
 
