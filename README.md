@@ -1,3 +1,4 @@
+# CALCULATOR 
 This is a simple calculator app built using Flutter. The app provides basic arithmetic operations, as well as the ability to convert numbers between decimal, hexadecimal, and binary.
 
 # FEATURS
